@@ -1,0 +1,118 @@
+{
+  "guiAutismo": "GuiAutismo",
+  "@guiAutismo": {
+    "description": "App name"
+  },
+  "loginFacebook": "Login with Facebook",
+  "@loginFacebook": {
+    "description": "Login with Facebook account"
+  },
+  "loginGoogle": "Login with Google",
+  "@loginGoogle": {
+    "description": "Login with Google account"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home page"
+  },
+  "content": "Notice",
+  "@content": {
+    "description": "Notice page"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile page"
+  },
+  "hintSearch": "Search for a location",
+  "@hintSearch": {
+    "description": "Hint text of the home page"
+  },
+  "filter": "Filter",
+  "@filter": {
+    "description": "Filter"
+  },
+  "locationsClose": "Locations Close",
+  "@locationsClose": {
+    "description": "Locations close"
+  },
+  "contentTitle": "Notices GuiAutismo",
+  "@contentTitle": {
+    "description": "Notice title page"
+  },
+  "signOut": "Sign out",
+  "@signOut": {
+    "description": "Sign out app"
+  },
+  "evaluations": "Evaluations",
+  "@evaluations": {
+    "description": "number of evaluations"
+  },
+  "comments": "Comments",
+  "@comments": {
+    "description": "number of comments"
+  },
+  "evaluatedLocations": "Evaluated Locations",
+  "@locationsClose": {
+    "description": "Evaluated locations by user"
+  },
+  "feedback": "Send us your feedback!",
+  "@feedback": {
+    "description": "User feedback"
+  },
+  "feedbackTitle": "Feedback",
+  "@feedbackTitle": {
+    "description": "Feedback title"
+  },
+  "rateTitle": "How do you\n rate us?",
+  "@rateTitle": {
+    "description": "Rating title"
+  },
+  "title": "Title",
+  "@title": {
+    "description": "Title"
+  },
+  "message": "Message",
+  "@message": {
+    "description": "Message"
+  },
+  "send": "Send",
+  "@send": {
+    "description": "Send"
+  },
+  "evaluate": "Evaluate",
+  "@evaluate": {
+    "description": "Evaluate"
+  },
+  "location": "Location",
+  "@evaluate": {
+    "description": "Location"
+  },
+  "open": "Open",
+  "close": "Close",
+  "yes": "Yes",
+  "no": "No",
+  "cancel": "Cancel",
+  "filtrate": "Filtrate",
+  "supermarket": "Supermarket",
+  "cinema": "Cinema",
+  "typeOfPlace": "Type of Place",
+  "accessible": "Accessible",
+  "partialltAccessible": "Partiallt Accessible",
+  "notAccessible": "Not Accessible",
+  "accessibility": "Accessibility",
+  "notRated":"Not Rated",
+  "highScore":"High score",
+  "lowestScore":"Lowest score",
+  "sortBy":"Sort by",
+  "param_1_cine":"Did you receive adequate care?",
+  "param_2_cine":"Was the advertising for the session adequate?",
+  "param_3_cine":"Was the light in the session pleasant?",
+  "param_4_cine":"Was the sound volume in the session pleasant?",
+  "param_5_cine":"How do you assess access (entry and exit) to the room during the exhibition?",
+  "param_1_market":"Did you receive adequate care?",
+  "param_2_market":"How do you assess priority at the cashiers?",
+  "param_3_market":"Is the light pleasant?",
+  "param_4_market":"How do you assess the sounds of the place?",
+  "param_5_market":"How do you rate how easy it is to find the products?",
+  "away":"away"
+}

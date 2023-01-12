@@ -1,0 +1,8 @@
+enum FilterConstants {
+  NONE,
+  MAIS_RECENTE,
+  MAIS_ALTA,
+  MAIS_BAIXA,
+  SUPERMERCADO,
+  CINEMA
+}
