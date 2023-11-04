@@ -14,16 +14,22 @@
 <a href="https://www.repostatus.org/#unsupported"><img src="https://www.repostatus.org/badges/latest/unsupported.svg" alt="Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired." /></a>  
 </p>
 
+## Application
+
+<a href='https://play.google.com/store/apps/details?id=br.com.guiautismo'><img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' /></a>
+
+<div style="display:flex;">
+  <img alt="App image" src="https://i.imgur.com/YiVD3E4.jpeg" width="23%">
+  <img alt="App image" src="https://i.imgur.com/AehqPmn.jpeg" width="23%">
+  <img alt="App image" src="https://i.imgur.com/D00vTH6.jpeg" width="23%">
+  <img alt="App image" src="https://i.imgur.com/gBr3r5w.jpeg" width="23%">
+</div>
+
 ## **Description**
 
 App developed for my 2021 final thesis in the Analysis and Systems Development course. The app is designed for the autistic audience, allowing assessment, data presentation, and accessibility ratings for cinemas and supermarkets.
 
 The app was conceived due to the lack of research and applications addressing accessibility for individuals on the autistic spectrum, especially considering the more sensory and attitudinal nature of their needs.
-
-<h1 align="center">
-  <img src="https://i.imgur.com/I3FVgjO.png" alt="Banner de apresentação Guiautismo" width="80%">
-  <br>
-</h1>
 
 ## Features
 
@@ -42,17 +48,6 @@ The app was conceived due to the lack of research and applications addressing ac
 :heavy_check_mark: Automatically translate to English based on the language set on the device.
 
 :heavy_check_mark: Store user data, evaluations, and locations using the Cloud Firestore database.
-
-## Application
-
-<a href='https://play.google.com/store/apps/details?id=br.com.guiautismo'><img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' /></a>
-
-<div style="display:flex;">
-  <img alt="App image" src="https://i.imgur.com/YiVD3E4.jpeg" width="23%">
-  <img alt="App image" src="https://i.imgur.com/AehqPmn.jpeg" width="23%">
-  <img alt="App image" src="https://i.imgur.com/D00vTH6.jpeg" width="23%">
-  <img alt="App image" src="https://i.imgur.com/gBr3r5w.jpeg" width="23%">
-</div>
 
 ## Tools
 
